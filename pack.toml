@@ -1,0 +1,13 @@
+name = "More Mod Variants"
+author = "LieOnLion, Pnku"
+version = "0.1.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "81796bf2b8630eef069e5d2e60023f732399f9f6d8a9622ffbcdf2d4ebc2c3a8"
+
+[versions]
+fabric = "0.16.10"
+minecraft = "1.21.1"

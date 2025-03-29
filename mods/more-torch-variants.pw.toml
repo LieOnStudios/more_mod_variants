@@ -1,0 +1,13 @@
+name = "More Torch Variants (MStV+)"
+filename = "MoreTorchVariants-1.1.3+1.21.1-Fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/SD0XUjSm/versions/yf4pKKoB/MoreTorchVariants-1.1.3%2B1.21.1-Fabric.jar"
+hash-format = "sha512"
+hash = "ea4cad4310b14e93add43b13b8c19fa4c53e6748ef7d95bbf075cc3abda64f9c99dccf76b5e5ddb60cdcdd760f9771962d99372eaba5eaac6f14878a6829c5ff"
+
+[update]
+[update.modrinth]
+mod-id = "SD0XUjSm"
+version = "yf4pKKoB"

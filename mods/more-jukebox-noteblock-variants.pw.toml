@@ -1,0 +1,13 @@
+name = "More Jukebox/Noteblock Variants"
+filename = "MoreJukeboxNoteblockVariants-1.1.0+1.21.1-Fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/CLgavC7x/versions/i7MUCDYX/MoreJukeboxNoteblockVariants-1.1.0%2B1.21.1-Fabric.jar"
+hash-format = "sha512"
+hash = "144147d72a82d9b256e21483dab5eaa1243389eb49e72f1277effa4c87ad72ec425765d49fd2105edf5867ddbe08d5792b26e7dac4df3e9497c138e9da252768"
+
+[update]
+[update.modrinth]
+mod-id = "CLgavC7x"
+version = "i7MUCDYX"

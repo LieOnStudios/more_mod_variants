@@ -1,0 +1,13 @@
+name = "More Smithing Tables"
+filename = "MoreSmithingTables-1.2.0+1.21-Fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/t3iWfx17/versions/P2ZgbupM/MoreSmithingTables-1.2.0%2B1.21-Fabric.jar"
+hash-format = "sha512"
+hash = "b6372f7f5247cf99ef6b4826bd07c777f08c6c3a6d5e7661309eb8db4018de3557a010ab49d9d07fa49b2b6db302879d28b9d3ee000e6d4fc86e3f69ea4e5132"
+
+[update]
+[update.modrinth]
+mod-id = "t3iWfx17"
+version = "P2ZgbupM"

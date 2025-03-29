@@ -1,0 +1,171 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "446c173c87b7908daee86b0dee89c6b628c77beb7a0bc091ff5252b7c0062080"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "9ee84bdf71ae7963fabc99e8bb44acb72334d281b02ddac913e25daf7b81c143"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "d917697e84a95f857a447d26f94d93169a5a62176c93193cdf80c8d8bc1e280a"
+metafile = true
+
+[[files]]
+file = "mods/more-armor-stand-variants.pw.toml"
+hash = "8b089ad932f28e2beb196caa887b4e590c289b79f542aebc9085a479d5456914"
+metafile = true
+
+[[files]]
+file = "mods/more-barrel-variants.pw.toml"
+hash = "50526031305631a3a0719b8ec538832bf6bbc5fb464ad1ed08a0bf31a4c7ad3a"
+metafile = true
+
+[[files]]
+file = "mods/more-bed-variants.pw.toml"
+hash = "9e4c5d80721c57bdfe16f93f49a7d84292ab469ae9e751a8c5012d9a3b224f82"
+metafile = true
+
+[[files]]
+file = "mods/more-beehive-variants.pw.toml"
+hash = "f400fed1372eb93290b90c2bb2f68a4de2bde95d3da067d8383d41c48a9f00e8"
+metafile = true
+
+[[files]]
+file = "mods/more-bookshelf-variants-lieonlion.pw.toml"
+hash = "82ee8aca607aa7d58a309fae54a960312ad5bd77141047ceed512c480559f169"
+metafile = true
+
+[[files]]
+file = "mods/more-cartography-tables.pw.toml"
+hash = "ea2dba85b2bac072aeca96325e7242843a53c450bc2b7f69ef105d12737239c5"
+metafile = true
+
+[[files]]
+file = "mods/more-chest-variants-lieonlion.pw.toml"
+hash = "98205cc88a2f7dd80ff812095b48fd916b6907f4a02cb8183725391fbe8d7bfa"
+metafile = true
+
+[[files]]
+file = "mods/more-chiseled-bookshelf-variants.pw.toml"
+hash = "0d0be01d45bc2c5fc3f46661606dbbd050d88dbb495135056f8afa7f54992d03"
+metafile = true
+
+[[files]]
+file = "mods/more-composter-variants.pw.toml"
+hash = "e48bb40e01c4302e1b7ca5c21e87d1a777ff7a503d734d54a1a82b277b82d4b5"
+metafile = true
+
+[[files]]
+file = "mods/more-crafter-variants.pw.toml"
+hash = "64d9984cf27f32d56b7e2c84ecdecbd1d2b2e4b237d2fa0794962ad1a283a16f"
+metafile = true
+
+[[files]]
+file = "mods/more-crafting-tables-lieonlion.pw.toml"
+hash = "da68364113245908fa47e9c535f1a373a3f7c56fc2339956a80e50971501ebc9"
+metafile = true
+
+[[files]]
+file = "mods/more-fishing-rod-variants.pw.toml"
+hash = "2525f8cf0dca75b4065ff3fcec7709d754a289e92c326ad6b8f4c0fa6794d5bc"
+metafile = true
+
+[[files]]
+file = "mods/more-fletching-tables.pw.toml"
+hash = "738bf88a3651ab58f96a7649b05e498e994c9e8274e1fda704bbd93a8b9769aa"
+metafile = true
+
+[[files]]
+file = "mods/more-frame-variants.pw.toml"
+hash = "f534b080e0f8976acc7d147f2e6a311161cc28534316e6c928fdcb0075bb5e89"
+metafile = true
+
+[[files]]
+file = "mods/more-furnace-variants-lieonlion.pw.toml"
+hash = "c75de45e7a44a5c8bbe781ef91382bc6cb93e24653c26b467d558283bf837c1e"
+metafile = true
+
+[[files]]
+file = "mods/more-grindstone-variants.pw.toml"
+hash = "5e34653f31a7b0d6829c07223494030984c40b1e2f0a184d95817a5aa51083d2"
+metafile = true
+
+[[files]]
+file = "mods/more-jukebox-noteblock-variants.pw.toml"
+hash = "1a58c3a628ad8a7a2b0fadc64e98fba7a8d4cd21432ee2bc8b7c68153451c068"
+metafile = true
+
+[[files]]
+file = "mods/more-lectern-variants.pw.toml"
+hash = "7f9abe8969fd68045d2d76238a158d2b41440dcfbd548a44c9b6bac5ac5a7831"
+metafile = true
+
+[[files]]
+file = "mods/more-loom-variants.pw.toml"
+hash = "4a329e17cb978bed138f6e0656fbebc350aa667224d5758bd4e11cf6318ef2cc"
+metafile = true
+
+[[files]]
+file = "mods/more-rail-variants.pw.toml"
+hash = "0047b81484da56db0d36999dbb09e0c348ca2e8b21ce5108c9e4e97ea7fa593a"
+metafile = true
+
+[[files]]
+file = "mods/more-shield-variants.pw.toml"
+hash = "89758ffd40dfe8d2dc4f8142541b54cea8b7a91f23c196dd21b9307a4b3020c2"
+metafile = true
+
+[[files]]
+file = "mods/more-smithing-tables.pw.toml"
+hash = "c516e51a67384dc456834f33b3b513e5e14837bab619f688941891a8cd22b8b1"
+metafile = true
+
+[[files]]
+file = "mods/more-smoker-variants.pw.toml"
+hash = "f30eafd29d5f8333222abd63a85e4194a3ad2b4979033c6ada712f765d249c8c"
+metafile = true
+
+[[files]]
+file = "mods/more-stick-variants.pw.toml"
+hash = "646da907ccc6a6f91a7d10858661073b337f776a475c69cec46d01c02cfdffb7"
+metafile = true
+
+[[files]]
+file = "mods/more-tool-variants.pw.toml"
+hash = "9affd779b5feb58f16d096aefd8507f31463aaac3f36c3abeb76866863d6787d"
+metafile = true
+
+[[files]]
+file = "mods/more-torch-variants.pw.toml"
+hash = "25b1faf15695221040fe773f0a69663468da0a74ada630e09ff1a61ee4b32d75"
+metafile = true
+
+[[files]]
+file = "mods/more-weapon-variants.pw.toml"
+hash = "8c77ed41a1d21246deb029016ff92cd154473046c81679a4a54da15387381038"
+metafile = true
+
+[[files]]
+file = "mods/nemos-campfires.pw.toml"
+hash = "60f559720b8a9f07d4b1ecd3d8585b7bc315da7c4d47643eb93505e8b918dce0"
+metafile = true
+
+[[files]]
+file = "mods/nemos-more-ladder-variants.pw.toml"
+hash = "e5fc0d09e225e485e3e390324a38b61dacfc44566c755913c71475f35d3979d4"
+metafile = true
+
+[[files]]
+file = "mods/placeholder-api.pw.toml"
+hash = "2e2c1b47b513663871e71c89a699c66ac9fcc97633f007ed064ce4410f220f5a"
+metafile = true
+
+[[files]]
+file = "mods/quad.pw.toml"
+hash = "6ab87b71d361542e4f8389c08fe17f0e92c203dfb1e6c5a44607001e9b5a7eb4"
+metafile = true

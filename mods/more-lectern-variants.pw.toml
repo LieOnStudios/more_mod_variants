@@ -1,0 +1,13 @@
+name = "More Lectern Variants"
+filename = "MoreLecternVariants-1.8.2+1.21-Fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/pLsa93bN/versions/SvoUoEnU/MoreLecternVariants-1.8.2%2B1.21-Fabric.jar"
+hash-format = "sha512"
+hash = "b28f44565a9bc811e4c75bb2536bf6c65da7b3935a85fc1ce418f30c0557d4137bc6d98d568e2178f3cd552dc9b82fa4c3c49123d9567ef0bcfbc8e3cd3cd968"
+
+[update]
+[update.modrinth]
+mod-id = "pLsa93bN"
+version = "SvoUoEnU"

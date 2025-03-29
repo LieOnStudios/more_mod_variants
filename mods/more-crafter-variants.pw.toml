@@ -1,0 +1,13 @@
+name = "More Crafter Variants"
+filename = "MoreCrafterVariants-1.0.0+1.21-Fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/cQrrq4n2/versions/nbwPvvKV/MoreCrafterVariants-1.0.0%2B1.21-Fabric.jar"
+hash-format = "sha512"
+hash = "28c7d15a65b90428c969e8e57122d44005f6cd68dff527788a2198e1a72cf3d5dc429c9b0b30a3a7cd54f2f83e63c11ea743d3075fd1b7a4e8faa1f8bb353a80"
+
+[update]
+[update.modrinth]
+mod-id = "cQrrq4n2"
+version = "nbwPvvKV"

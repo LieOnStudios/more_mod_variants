@@ -1,0 +1,13 @@
+name = "Nemo's More Ladder Variants (MStV+)"
+filename = "NemosMoreLadderVariants-1.0.3+1.21-Fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/5fsOIs5O/versions/82p371Ah/NemosMoreLadderVariants-1.0.3%2B1.21-Fabric.jar"
+hash-format = "sha512"
+hash = "2fbf5cd71c87133f5cd863b88ce7a9bb16cd58afc95ecdf5a9dfe8a5fcac4b038c77bc5da68cec4298cfcdc98d6560eaf4dfc147ecbc7e85820abadc107dc8a5"
+
+[update]
+[update.modrinth]
+mod-id = "5fsOIs5O"
+version = "82p371Ah"

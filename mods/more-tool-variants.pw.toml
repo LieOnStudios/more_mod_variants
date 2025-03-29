@@ -1,0 +1,13 @@
+name = "More Tool Variants (MStV+)"
+filename = "MoreToolVariants-1.1.2+1.21.1-Fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/kI2bVWDr/versions/ylQrrxLY/MoreToolVariants-1.1.2%2B1.21.1-Fabric.jar"
+hash-format = "sha512"
+hash = "b4fba0ef1e9ba86880241b419a42fe8eaffbfe03642458f9038e0b42c8ff932452016e48c13dc0fae341d7c141273e2c583f0226fe65dfd5597ac547ceeca473"
+
+[update]
+[update.modrinth]
+mod-id = "kI2bVWDr"
+version = "ylQrrxLY"

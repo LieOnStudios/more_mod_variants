@@ -1,0 +1,13 @@
+name = "Nemo's Campfires"
+filename = "nemos-campfires-1.2.1-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/DvfT1IMJ/versions/aWfEfKQY/nemos-campfires-1.2.1-1.21.1.jar"
+hash-format = "sha512"
+hash = "7c58901593fb95dd5ee6ac97b90fbfb602e6791fd55120eff99f7f580af105ec63fbf5433233ecc4650bd28295488f9fcd8f326ad81be526f964ac12a0dde356"
+
+[update]
+[update.modrinth]
+mod-id = "DvfT1IMJ"
+version = "aWfEfKQY"
